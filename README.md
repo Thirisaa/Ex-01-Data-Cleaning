@@ -88,6 +88,7 @@ df.isnull().sum()
 ![op12](https://user-images.githubusercontent.com/112301582/226177010-8501c40e-ae78-4331-9cd7-1250363e2824.png)
 
 #RESULT
+
 Thus the given data is read,data cleaning is performed on it and the cleaned data is saved into the file.
 
 
