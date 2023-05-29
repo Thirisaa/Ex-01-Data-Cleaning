@@ -1,4 +1,4 @@
-# Ex-01_DS_Data_Cleansing
+# Ex-01 Data Cleansing
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
@@ -77,6 +77,7 @@ df.isnull().sum()
 
 # OUPUT
 ![op1](https://user-images.githubusercontent.com/112301582/226176454-3e1b37ea-54d3-4c16-9102-e75b34ecf6aa.png)
+
 ![op2](https://user-images.githubusercontent.com/112301582/226176520-88a9f6f8-81f7-48bd-bc8c-b8eb4fd8bf75.png)
 ![op3](https://user-images.githubusercontent.com/112301582/226176531-f922bd6f-1bc5-4655-a6fa-51ba2ca8c380.png)
 ![op4](https://user-images.githubusercontent.com/112301582/226177262-31f8f842-cc62-44aa-8e13-745fa5051a66.png)
