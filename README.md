@@ -1,4 +1,4 @@
-# Ex-01 Data Cleansing
+# Ex-01                  Data Cleansing
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
@@ -79,15 +79,25 @@ df.isnull().sum()
 ![op1](https://user-images.githubusercontent.com/112301582/226176454-3e1b37ea-54d3-4c16-9102-e75b34ecf6aa.png)
 
 ![op2](https://user-images.githubusercontent.com/112301582/226176520-88a9f6f8-81f7-48bd-bc8c-b8eb4fd8bf75.png)
+
 ![op3](https://user-images.githubusercontent.com/112301582/226176531-f922bd6f-1bc5-4655-a6fa-51ba2ca8c380.png)
+
 ![op4](https://user-images.githubusercontent.com/112301582/226177262-31f8f842-cc62-44aa-8e13-745fa5051a66.png)
+
 ![op5](https://user-images.githubusercontent.com/112301582/226176548-a67711f9-85be-4631-9f5e-d664971314dd.png)
+
 ![op6](https://user-images.githubusercontent.com/112301582/226176560-fe2d657f-f933-4a02-81bd-98d580d0befc.png)
+
 ![op7](https://user-images.githubusercontent.com/112301582/226177279-ab9e8226-d4d9-4e93-a72d-c86b9b13d97f.png)
+
 ![op8](https://user-images.githubusercontent.com/112301582/226176984-fc268bb7-c404-4502-a415-84678fa74031.png)
+
 ![op9](https://user-images.githubusercontent.com/112301582/226176990-900d024d-e703-4287-9eae-0370c7fce4da.png)
+
 ![op10](https://user-images.githubusercontent.com/112301582/226176995-f9495626-3105-4dce-8774-ea64689a7c74.png)
+
 ![op11](https://user-images.githubusercontent.com/112301582/226177422-ba559bb6-69c8-4689-b61f-1ff15c45619c.png)
+
 ![op12](https://user-images.githubusercontent.com/112301582/226177010-8501c40e-ae78-4331-9cd7-1250363e2824.png)
 
 # RESULT
